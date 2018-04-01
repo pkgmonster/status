@@ -1,0 +1,87 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.mid-section {
+    background-color: #f6f6f6;
+}
+
+.hero-msg {
+    color: #0d8eed;
+}
+
+.footer {
+    background-color: #2d3246;
+}
+
+.footer-link a {
+    color: #fff;
+    text-transform: uppercase;
+}
+
+.footer-text {
+    color: #bdbdbd;
+}
+
+.footer-copyright {
+    color: #6d6d6d;
+}
+
+.error-msg {
+    font-size: 0.8em;
+    color: #f00;
+}
+
+.main-section {
+    background-color: #f4f8f9;
+}
+
+.nav-item a {
+    color: #62686c;
+}
+
+.nav-link.active {
+    font-weight: bold;
+}
+
+.bottom-border {
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #e9e9e9;
+}
+
+
+.right-border {
+    border-right: 20px solid #f4f8f9;
+}
+
+.left-border {
+    border-left: 20px solid #f4f8f9;
+}
+
+.gutter-80.row {
+    margin-right: -40px;
+    margin-left: -40px;
+}
+
+.gutter-80 > [class^="col-"], .gutter-80 > [class^=" col-"] {
+    padding-right: 40px;
+    padding-left: 40px;
+}
+
+.h-57 {
+    height: 56% !important
+}
+
+#status-section {
+    color: #62686c;
+}
+
+.all-status {
+    background-color: #2fcc66;
+    color: #fff;
+}
+
+.status-badge {
+    color: #2fcc66;
+}
